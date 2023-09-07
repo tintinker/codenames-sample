@@ -1,0 +1,1262 @@
+[
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 800,
+        "accuracy": 0.1399055489964581,
+        "name": "0.5_0_False_0.0005_800_0.1399055489964581.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 800,
+        "accuracy": 0.13931523022432113,
+        "name": "0.3_0_False_0.001_800_0.13931523022432113.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 800,
+        "accuracy": 0.13518299881936247,
+        "name": "0.5_1e-05_False_0.001_800_0.13518299881936247.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 800,
+        "accuracy": 0.1334120425029516,
+        "name": "0.3_1e-05_False_0.001_800_0.1334120425029516.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 800,
+        "accuracy": 0.13046044864226683,
+        "name": "0.3_1e-05_False_0.0005_800_0.13046044864226683.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 512,
+        "accuracy": 0.13046044864226683,
+        "name": "0.3_1e-05_False_0.0005_512_0.13046044864226683.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 800,
+        "accuracy": 0.12987012987012986,
+        "name": "0.5_1e-05_False_0.0005_800_0.12987012987012986.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 800,
+        "accuracy": 0.12987012987012986,
+        "name": "0.2_1e-05_False_0.001_800_0.12987012987012986.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 512,
+        "accuracy": 0.12987012987012986,
+        "name": "0.3_0_False_0.0005_512_0.12987012987012986.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 800,
+        "accuracy": 0.12750885478158205,
+        "name": "0.5_0_False_0.001_800_0.12750885478158205.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 800,
+        "accuracy": 0.1269185360094451,
+        "name": "0.2_0_False_0.0005_800_0.1269185360094451.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 512,
+        "accuracy": 0.1257378984651712,
+        "name": "0.5_1e-05_False_0.001_512_0.1257378984651712.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 800,
+        "accuracy": 0.1257378984651712,
+        "name": "0.3_0_False_0.0005_800_0.1257378984651712.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 800,
+        "accuracy": 0.12514757969303425,
+        "name": "0.2_1e-05_False_0.0005_800_0.12514757969303425.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 800,
+        "accuracy": 0.12514757969303425,
+        "name": "0.3_0.0001_False_0.001_800_0.12514757969303425.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 512,
+        "accuracy": 0.12455726092089728,
+        "name": "0.3_1e-05_False_0.001_512_0.12455726092089728.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 800,
+        "accuracy": 0.12396694214876033,
+        "name": "0.5_0.0001_False_0.001_800_0.12396694214876033.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 512,
+        "accuracy": 0.12396694214876033,
+        "name": "0.2_1e-05_False_0.001_512_0.12396694214876033.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 512,
+        "accuracy": 0.12337662337662338,
+        "name": "0.5_1e-05_False_0.0005_512_0.12337662337662338.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 512,
+        "accuracy": 0.12219598583234947,
+        "name": "0.5_0_False_0.0005_512_0.12219598583234947.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 512,
+        "accuracy": 0.12160566706021252,
+        "name": "0.2_0_False_0.0005_512_0.12160566706021252.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 800,
+        "accuracy": 0.12101534828807556,
+        "name": "0.2_0_False_0.001_800_0.12101534828807556.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 256,
+        "accuracy": 0.1204250295159386,
+        "name": "0.2_0_False_0.001_256_0.1204250295159386.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 512,
+        "accuracy": 0.11983471074380166,
+        "name": "0.2_0.0001_False_0.001_512_0.11983471074380166.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 256,
+        "accuracy": 0.11983471074380166,
+        "name": "0.3_0_False_0.001_256_0.11983471074380166.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 512,
+        "accuracy": 0.11865407319952774,
+        "name": "0.2_0_False_0.001_512_0.11865407319952774.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 256,
+        "accuracy": 0.11865407319952774,
+        "name": "0.3_0_False_0.0005_256_0.11865407319952774.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 800,
+        "accuracy": 0.11747343565525384,
+        "name": "0.5_1e-05_False_0.0001_800_0.11747343565525384.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 800,
+        "accuracy": 0.11629279811097992,
+        "name": "0.2_0_False_0.0001_800_0.11629279811097992.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 512,
+        "accuracy": 0.11629279811097992,
+        "name": "0.3_0_False_0.001_512_0.11629279811097992.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 800,
+        "accuracy": 0.11629279811097992,
+        "name": "0.3_0_False_0.0001_800_0.11629279811097992.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 256,
+        "accuracy": 0.11629279811097992,
+        "name": "0.3_1e-05_False_0.001_256_0.11629279811097992.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 800,
+        "accuracy": 0.11570247933884298,
+        "name": "0.5_0_False_0.0001_800_0.11570247933884298.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 800,
+        "accuracy": 0.11570247933884298,
+        "name": "0.3_0.0001_False_0.0005_800_0.11570247933884298.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 800,
+        "accuracy": 0.11511216056670602,
+        "name": "0.5_0.0001_False_0.0005_800_0.11511216056670602.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 512,
+        "accuracy": 0.11511216056670602,
+        "name": "0.2_1e-05_False_0.0005_512_0.11511216056670602.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 800,
+        "accuracy": 0.11452184179456906,
+        "name": "0.2_1e-05_False_0.0001_800_0.11452184179456906.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 512,
+        "accuracy": 0.11452184179456906,
+        "name": "0.3_1e-05_False_0.0001_512_0.11452184179456906.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 512,
+        "accuracy": 0.11393152302243212,
+        "name": "0.5_0.0001_False_0.001_512_0.11393152302243212.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 512,
+        "accuracy": 0.11334120425029516,
+        "name": "0.3_0.0001_False_0.001_512_0.11334120425029516.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 256,
+        "accuracy": 0.1127508854781582,
+        "name": "0.2_1e-05_False_0.001_256_0.1127508854781582.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 512,
+        "accuracy": 0.1127508854781582,
+        "name": "0.2_1e-05_False_0.0001_512_0.1127508854781582.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 800,
+        "accuracy": 0.1127508854781582,
+        "name": "0.2_0.0001_False_0.001_800_0.1127508854781582.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 800,
+        "accuracy": 0.1127508854781582,
+        "name": "0.3_1e-05_False_0.0001_800_0.1127508854781582.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 512,
+        "accuracy": 0.11216056670602124,
+        "name": "0.2_0_False_0.0001_512_0.11216056670602124.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 512,
+        "accuracy": 0.1115702479338843,
+        "name": "0.5_0_False_0.001_512_0.1115702479338843.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 256,
+        "accuracy": 0.1115702479338843,
+        "name": "0.2_1e-05_False_0.0005_256_0.1115702479338843.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 512,
+        "accuracy": 0.10920897284533648,
+        "name": "0.2_0.0001_False_0.0005_512_0.10920897284533648.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 256,
+        "accuracy": 0.10802833530106257,
+        "name": "0.3_1e-05_False_0.0005_256_0.10802833530106257.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 512,
+        "accuracy": 0.10743801652892562,
+        "name": "0.3_0.0001_False_0.0005_512_0.10743801652892562.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 512,
+        "accuracy": 0.10684769775678866,
+        "name": "0.3_0_False_0.0001_512_0.10684769775678866.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 512,
+        "accuracy": 0.10625737898465171,
+        "name": "0.5_0.0001_False_0.0005_512_0.10625737898465171.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 800,
+        "accuracy": 0.10625737898465171,
+        "name": "0.2_0.0001_False_0.0005_800_0.10625737898465171.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 256,
+        "accuracy": 0.10566706021251476,
+        "name": "0.2_0_False_0.0005_256_0.10566706021251476.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 256,
+        "accuracy": 0.10330578512396695,
+        "name": "0.5_1e-05_False_0.0005_256_0.10330578512396695.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 256,
+        "accuracy": 0.10271546635182999,
+        "name": "0.5_0_False_0.001_256_0.10271546635182999.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 512,
+        "accuracy": 0.10212514757969303,
+        "name": "0.5_1e-05_False_0.0001_512_0.10212514757969303.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 256,
+        "accuracy": 0.10094451003541913,
+        "name": "0.5_1e-05_False_0.001_256_0.10094451003541913.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 512,
+        "accuracy": 0.10035419126328217,
+        "name": "0.5_0_False_0.0001_512_0.10035419126328217.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 256,
+        "accuracy": 0.09976387249114523,
+        "name": "0.2_0.0001_False_0.001_256_0.09976387249114523.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 256,
+        "accuracy": 0.09976387249114523,
+        "name": "0.3_0.0001_False_0.001_256_0.09976387249114523.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 256,
+        "accuracy": 0.09917355371900827,
+        "name": "0.5_0_False_0.0005_256_0.09917355371900827.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 256,
+        "accuracy": 0.09858323494687131,
+        "name": "0.2_0_False_0.0001_256_0.09858323494687131.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 256,
+        "accuracy": 0.09858323494687131,
+        "name": "0.3_1e-05_False_0.0001_256_0.09858323494687131.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 800,
+        "accuracy": 0.09445100354191263,
+        "name": "0.2_0.0001_False_0.0001_800_0.09445100354191263.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 256,
+        "accuracy": 0.09208972845336481,
+        "name": "0.2_0.0001_False_0.0005_256_0.09208972845336481.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 800,
+        "accuracy": 0.09031877213695395,
+        "name": "0.3_0.0001_False_0.0001_800_0.09031877213695395.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 256,
+        "accuracy": 0.089728453364817,
+        "name": "0.3_0_False_0.0001_256_0.089728453364817.pt"
+    },
+    {
+        "dropout_rate": 0.2,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 256,
+        "accuracy": 0.08913813459268005,
+        "name": "0.2_1e-05_False_0.0001_256_0.08913813459268005.pt"
+    },
+    {
+        "dropout_rate": 0.3,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 512,
+        "accuracy": 0.08913813459268005,
+        "name": "0.3_0.0001_False_0.0001_512_0.08913813459268005.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 32,
+        "accuracy": 0.0005903187721369539,
+        "name": "0.3918280395373651_0.0001_False_0.001_32_0.0005903187721369539.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0,
+        "batch_norm": true,
+        "learning_rate": 0.001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0_True_0.001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0,
+        "batch_norm": true,
+        "learning_rate": 0.0005,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0_True_0.0005_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0,
+        "batch_norm": true,
+        "learning_rate": 0.0001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0_True_0.0001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0_False_0.001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0_False_0.0005_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0_False_0.0001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.0001,
+        "batch_norm": true,
+        "learning_rate": 0.001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0.0001_True_0.001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.0001,
+        "batch_norm": true,
+        "learning_rate": 0.0005,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0.0001_True_0.0005_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0.0001_False_0.001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0.0001_False_0.0005_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0.0001_False_0.0001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.001,
+        "hidden_dim": 64,
+        "accuracy": 0,
+        "name": "0.5_0.001_True_0.001_64_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0.001_True_0.001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.001,
+        "hidden_dim": 96,
+        "accuracy": 0,
+        "name": "0.5_0.001_True_0.001_96_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.001,
+        "hidden_dim": 128,
+        "accuracy": 0,
+        "name": "0.5_0.001_True_0.001_128_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0005,
+        "hidden_dim": 64,
+        "accuracy": 0,
+        "name": "0.5_0.001_True_0.0005_64_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0005,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0.001_True_0.0005_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0005,
+        "hidden_dim": 96,
+        "accuracy": 0,
+        "name": "0.5_0.001_True_0.0005_96_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0005,
+        "hidden_dim": 128,
+        "accuracy": 0,
+        "name": "0.5_0.001_True_0.0005_128_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0001,
+        "hidden_dim": 64,
+        "accuracy": 0,
+        "name": "0.5_0.001_True_0.0001_64_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0.001_True_0.0001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0001,
+        "hidden_dim": 96,
+        "accuracy": 0,
+        "name": "0.5_0.001_True_0.0001_96_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0001,
+        "hidden_dim": 128,
+        "accuracy": 0,
+        "name": "0.5_0.001_True_0.0001_128_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 64,
+        "accuracy": 0,
+        "name": "0.5_0.001_False_0.001_64_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0.001_False_0.001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 96,
+        "accuracy": 0,
+        "name": "0.5_0.001_False_0.001_96_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 128,
+        "accuracy": 0,
+        "name": "0.5_0.001_False_0.001_128_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 64,
+        "accuracy": 0,
+        "name": "0.5_0.001_False_0.0005_64_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0.001_False_0.0005_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 96,
+        "accuracy": 0,
+        "name": "0.5_0.001_False_0.0005_96_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 128,
+        "accuracy": 0,
+        "name": "0.5_0.001_False_0.0005_128_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 64,
+        "accuracy": 0,
+        "name": "0.5_0.001_False_0.0001_64_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_0.001_False_0.0001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 96,
+        "accuracy": 0,
+        "name": "0.5_0.001_False_0.0001_96_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 128,
+        "accuracy": 0,
+        "name": "0.5_0.001_False_0.0001_128_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.00001,
+        "batch_norm": true,
+        "learning_rate": 0.001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_1e-05_True_0.001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.00001,
+        "batch_norm": true,
+        "learning_rate": 0.0005,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_1e-05_True_0.0005_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.00001,
+        "batch_norm": true,
+        "learning_rate": 0.0001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_1e-05_True_0.0001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_1e-05_False_0.0005_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.5,
+        "weight_decay": 0.00001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.5_1e-05_False_0.0001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0,
+        "batch_norm": true,
+        "learning_rate": 0.001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0_True_0.001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.0001,
+        "batch_norm": true,
+        "learning_rate": 0.0005,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.0001_True_0.0005_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.0001,
+        "batch_norm": true,
+        "learning_rate": 0.0001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.0001_True_0.0001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.0001_False_0.0005_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.0001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.0001_False_0.0001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.001,
+        "hidden_dim": 64,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_True_0.001_64_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_True_0.001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.001,
+        "hidden_dim": 96,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_True_0.001_96_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.001,
+        "hidden_dim": 128,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_True_0.001_128_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0005,
+        "hidden_dim": 64,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_True_0.0005_64_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0005,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_True_0.0005_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0005,
+        "hidden_dim": 96,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_True_0.0005_96_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0005,
+        "hidden_dim": 128,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_True_0.0005_128_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0001,
+        "hidden_dim": 64,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_True_0.0001_64_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_True_0.0001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0001,
+        "hidden_dim": 96,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_True_0.0001_96_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": true,
+        "learning_rate": 0.0001,
+        "hidden_dim": 128,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_True_0.0001_128_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 64,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_False_0.001_64_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_False_0.001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 96,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_False_0.001_96_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.001,
+        "hidden_dim": 128,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_False_0.001_128_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 64,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_False_0.0005_64_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_False_0.0005_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 96,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_False_0.0005_96_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0005,
+        "hidden_dim": 128,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_False_0.0005_128_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 64,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_False_0.0001_64_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 32,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_False_0.0001_32_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 96,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_False_0.0001_96_0.0.pt"
+    },
+    {
+        "dropout_rate": 0.3918280395373651,
+        "weight_decay": 0.001,
+        "batch_norm": false,
+        "learning_rate": 0.0001,
+        "hidden_dim": 128,
+        "accuracy": 0,
+        "name": "0.3918280395373651_0.001_False_0.0001_128_0.0.pt"
+    }
+]
