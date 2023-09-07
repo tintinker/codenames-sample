@@ -4,7 +4,7 @@
 
 ### Usage
 
-1. Make an account on PlaygrounRL with this [referall link](https://playgroundrl.com/referralsignup?referral_email=jatinker@cs.stanford.edu)
+1. Make an account on PlaygrounRL with this [referral link](https://playgroundrl.com/referralsignup?referral_email=jatinker@cs.stanford.edu)
 2. Download your `auth.json` to the main directory
 3. Update the line ```model_name="default_model_name"``` in `spymaster/codenames.py` with your own unique model name
 4. `pip install -r requirements.txt` 
