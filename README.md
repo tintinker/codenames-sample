@@ -27,7 +27,7 @@ See `citations/README.md`
   journal={arXiv preprint arXiv:2212.14024},
   year={2022}
 }
-@ARTICKLE {SEMCAT,
+@ARTICLE {SEMCAT,
           author       = "Senel L. K., Utlu I., Yucesoy V., Koc A., Cukur T.",
           title        = "Semantic Structure and Interpretability of Word Embeddings",
           year         = "2018",
